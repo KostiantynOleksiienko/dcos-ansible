@@ -1,7 +1,8 @@
 ---
 dcos:
-  download: "https://downloads.dcos.io/dcos/stable/1.13.2/dcos_generate_config.sh"
-  version: "1.13.2"
+  download: "https://downloads.dcos.io/dcos/stable/1.13.4/dcos_generate_config.sh"
+  download_checksum: "sha256:55b096236a6de1a40259e6d8a8a21861c5333cbe2b9ba3e274d5de1534b095dc"
+  version: "1.13.4"
   enterprise_dcos: false
 
   selinux_mode: permissive
